@@ -1,0 +1,123 @@
+/*** FIRST INTERFACE ***/
+/*** FIRST INTERFACE ***/
+/*** FIRST INTERFACE ***/
+/*** FIRST INTERFACE ***/
+
+
+@media (max-width: 1450px) {
+    .back-btn {
+        top: 48%;
+    }
+}
+
+@media (max-width: 1256px) {
+    .telegram {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1165px) {
+    .first-p {
+        margin-left: -10px;
+    }
+}
+
+@media (max-width: 1135px) {
+    .first-input {
+        font-size: 15px;
+        padding: 11px 10px;
+    }
+}
+
+@media (max-width: 1010px) {
+    .container {
+        width: 70%;
+    }
+}
+
+@media (max-width: 650px) {
+    .container {
+        width: 80%;
+    }
+}
+
+@media (max-width: 510px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 450px) {
+    .first-p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 395px) {
+    .wrapper {
+        padding: 30px;
+    }
+
+    ul {
+        margin-left: 20px;
+    }
+    li {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 375px) {
+
+    .telegram {
+        width: 75%;
+    }
+}
+
+@media (max-width: 330px) {
+    li {
+        font-size: 13px;
+    }
+
+    .telegram {
+        width: 80%;
+    }
+
+    .first-p {
+        font-size: 12px;
+    }
+}
+
+
+/*** SECOND INTERFACE ***/
+/*** SECOND INTERFACE ***/
+/*** SECOND INTERFACE ***/
+/*** SECOND INTERFACE ***/
+
+
+@media (max-width: 1010px) {
+    .back-btn {
+        left: 20%;
+    }
+}
+
+@media (max-width: 545px) {
+    .wrapper-two {
+        margin: 50px 20px 20px 20px;
+    }
+
+    .submit-2 {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 502px) {
+    .back-btn {
+        left: 8%;
+    }
+}
+
+@media (max-width: 310px) {
+    .wrapper-two {
+        margin: 50px 10px 10px 10px;
+    }
+}
